@@ -1,3 +1,7 @@
+Issues
+=========
+Create an issue here: https://github.com/rtsymbaliuk-testorg-2/freepbx/issues
+
 ```
  ______             _____  ______   __
 |  ____|           |  __ \|  _ \ \ / /
